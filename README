@@ -1,0 +1,3 @@
+Local Library Tutorial 
+A follow through of https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction 
+Teaches a variety of topics including Node, Express, View Engines (Pug), mongodb and mongoose, and routing.
